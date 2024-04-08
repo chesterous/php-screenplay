@@ -7,7 +7,7 @@
     <license></license>
     <author_url></author_url>
     <license_url></license_url>
-    <version>1</version>
+    <version>0.1</version>
     <requires>
         <type>ossn_version</type>
         <version>4.0</version>
